@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drose433/Portfolio/static/css/main.11b7ff08.css",
+    "main.js": "/drose433/Portfolio/static/js/main.4bc47f1c.js",
+    "static/media/me.png": "/drose433/Portfolio/static/media/me.0c68508a9c45008a9914.png",
+    "static/media/code2.png": "/drose433/Portfolio/static/media/code2.991831d0a626b3b8e8b3.png",
+    "index.html": "/drose433/Portfolio/index.html",
+    "main.11b7ff08.css.map": "/drose433/Portfolio/static/css/main.11b7ff08.css.map",
+    "main.4bc47f1c.js.map": "/drose433/Portfolio/static/js/main.4bc47f1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b7ff08.css",
+    "static/js/main.4bc47f1c.js"
+  ]
+}
